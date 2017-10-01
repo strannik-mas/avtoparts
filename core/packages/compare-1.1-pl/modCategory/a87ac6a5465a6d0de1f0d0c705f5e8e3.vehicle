@@ -1,0 +1,118 @@
+<?php return array (
+  'unique_key' => 'category',
+  'preserve_keys' => false,
+  'update_object' => true,
+  'related_objects' => 
+  array (
+    'Chunks' => 
+    array (
+      'a0370e22fec1dd10b87b902cf52c5061' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":null,"source":1,"property_preprocess":0,"name":"toCompare","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<p>\\n    \\u0412\\u044b\\u0431\\u0440\\u0430\\u043d\\u043e <span id=\\"skolko_vibrano\\">[[+count_current]]<\\/span> \\u0438\\u0437 [[+count_max]]\\n    \\/ <a href=\\"[[+href_compare]]\\" onclick=\\"return shkCompare.toCompareLink();\\">\\u0441\\u0440\\u0430\\u0432\\u043d\\u0438\\u0442\\u044c<\\/a>\\n    <span id=\\"sravnenie_otmena\\" style=\\"display:[[+display_cancel]];\\">\\n    \\/\\n    <a href=\\"[[+href_cancel]]\\">\\u043e\\u0442\\u043c\\u0435\\u043d\\u0438\\u0442\\u044c<\\/a><\\/span>\\n<\\/p>\\n<br clear=\\"all\\" \\/>","locked":0,"properties":null,"static":0,"static_file":"","content":"<p>\\n    \\u0412\\u044b\\u0431\\u0440\\u0430\\u043d\\u043e <span id=\\"skolko_vibrano\\">[[+count_current]]<\\/span> \\u0438\\u0437 [[+count_max]]\\n    \\/ <a href=\\"[[+href_compare]]\\" onclick=\\"return shkCompare.toCompareLink();\\">\\u0441\\u0440\\u0430\\u0432\\u043d\\u0438\\u0442\\u044c<\\/a>\\n    <span id=\\"sravnenie_otmena\\" style=\\"display:[[+display_cancel]];\\">\\n    \\/\\n    <a href=\\"[[+href_cancel]]\\">\\u043e\\u0442\\u043c\\u0435\\u043d\\u0438\\u0442\\u044c<\\/a><\\/span>\\n<\\/p>\\n<br clear=\\"all\\" \\/>"}',
+        'guid' => '003328403be93aac4acb0638a4f590e0',
+        'native_key' => NULL,
+        'signature' => 'afcd97bea7df40d58ca591995fd38c14',
+      ),
+      'cd5c3e490f01f3148a3568d6d074547a' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":null,"source":1,"property_preprocess":0,"name":"compare_product","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<table class=\\"data-table\\">\\n    \\n<!--tpl_separator-->\\n\\n<tr class=\\"[[+classes]]\\">[[+inner]]<\\/tr>\\n\\n<!--tpl_separator-->\\n\\n<td class=\\"odd first\\">\\u041f\\u0430\\u0440\\u0430\\u043c\\u0435\\u0442\\u0440\\u044b<\\/td>\\n\\n<!--tpl_separator-->\\n\\n<td class=\\"[[+classes]]\\">\\n    <a class=\\"del-link\\" href=\\"[[~[[*id]]]]?cmpr_action=del_product&amp;pid=[[+id]]\\" title=\\"\\u0423\\u0431\\u0440\\u0430\\u0442\\u044c\\">X<\\/a>\\n    <br clear=\\"all\\" \\/>\\n    <img src=\\"[[+image]]\\" alt=\\"\\" \\/>\\n    <br \\/>\\n    <b>[[+pagetitle]]<\\/b>\\n<\\/td>\\n\\n<!--tpl_separator-->\\n\\n<td class=\\"odd first\\">[[+param_name]]<\\/td>\\n\\n<!--tpl_separator-->\\n\\n<td class=\\"[[+classes]]\\">[[+param_value]]<\\/td>\\n\\n<!--tpl_separator-->\\n\\n<\\/table>","locked":0,"properties":null,"static":0,"static_file":"","content":"<table class=\\"data-table\\">\\n    \\n<!--tpl_separator-->\\n\\n<tr class=\\"[[+classes]]\\">[[+inner]]<\\/tr>\\n\\n<!--tpl_separator-->\\n\\n<td class=\\"odd first\\">\\u041f\\u0430\\u0440\\u0430\\u043c\\u0435\\u0442\\u0440\\u044b<\\/td>\\n\\n<!--tpl_separator-->\\n\\n<td class=\\"[[+classes]]\\">\\n    <a class=\\"del-link\\" href=\\"[[~[[*id]]]]?cmpr_action=del_product&amp;pid=[[+id]]\\" title=\\"\\u0423\\u0431\\u0440\\u0430\\u0442\\u044c\\">X<\\/a>\\n    <br clear=\\"all\\" \\/>\\n    <img src=\\"[[+image]]\\" alt=\\"\\" \\/>\\n    <br \\/>\\n    <b>[[+pagetitle]]<\\/b>\\n<\\/td>\\n\\n<!--tpl_separator-->\\n\\n<td class=\\"odd first\\">[[+param_name]]<\\/td>\\n\\n<!--tpl_separator-->\\n\\n<td class=\\"[[+classes]]\\">[[+param_value]]<\\/td>\\n\\n<!--tpl_separator-->\\n\\n<\\/table>"}',
+        'guid' => '8d8ae255a0bd771db2327dc0cfa57f62',
+        'native_key' => NULL,
+        'signature' => '2ff220ac59f86f777382e3f2a509435f',
+      ),
+    ),
+    'Snippets' => 
+    array (
+      'a7ff1aaae74991ff02db9ef3f7cc17ef' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":0,"source":0,"property_preprocess":0,"name":"compare","description":"Compare Products in the parameters.","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/*\\n\\ncompare 1.1\\n\\u0421\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u0435 \\u0442\\u043e\\u0432\\u0430\\u0440\\u043e\\u0432 \\u0438 \\u0418\\u0437\\u0431\\u0440\\u0430\\u043d\\u043d\\u043e\\u0435\\n\\nAndchir - http:\\/\\/modx-shopkeeper.ru\\/\\n\\n*\\/\\n\\n$default_toCompareTpl = \'\\n    <p>\\n        \\u0412\\u044b\\u0431\\u0440\\u0430\\u043d\\u043e <span id=\\"skolko_vibrano\\">[[+count_current]]<\\/span> \\u0438\\u0437 [[+count_max]]\\n        \\/ <a href=\\"[[+href_compare]]\\" onclick=\\"return shkCompare.toCompareLink();\\">\\u0441\\u0440\\u0430\\u0432\\u043d\\u0438\\u0442\\u044c<\\/a>\\n        <span id=\\"sravnenie_otmena\\" style=\\"display:[[+display_cancel]];\\"> \\/ <a href=\\"[[+href_cancel]]\\">\\u043e\\u0442\\u043c\\u0435\\u043d\\u0438\\u0442\\u044c<\\/a><\\/span>\\n    <\\/p>\\n    <br clear=\\"all\\" \\/>\\n\';\\n\\n$action = isset($action) ? $action : \'to_compare\';\\n\\nrequire_once MODX_CORE_PATH . \'components\\/compare\\/compare.class.php\';\\n$compare = new prodCompare( $modx, $scriptProperties );\\n\\n\\/\\/\\u0434\\u0435\\u0439\\u0441\\u0442\\u0432\\u0438\\u044f, \\u043f\\u0435\\u0440\\u0435\\u0434\\u0430\\u043d\\u043d\\u044b\\u0435 \\u043f\\u043e $_GET\\n$cmpr_action = isset($_GET[\'cmpr_action\']) && !is_array($_GET[\'cmpr_action\']) ? $_GET[\'cmpr_action\'] : \'\';\\nif($cmpr_action == \'del_product\' && !in_array( $action, array(\'print_products\', \'print_id_list\') ) ) return;\\nswitch($cmpr_action){\\n    \\/\\/\\u0443\\u0434\\u0430\\u043b\\u0435\\u043d\\u0438\\u0435 \\u043e\\u0434\\u043d\\u043e\\u0433\\u043e \\u0442\\u043e\\u0432\\u0430\\u0440\\u0430 \\u0438\\u0437 \\u0441\\u043f\\u0438\\u0441\\u043a\\u0430 \\u0434\\u043b\\u044f \\u0441\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u044f\\n    case \'del_product\':\\n        if(!empty($_GET[\'pid\'])) $compare->deleteCompareProduct();\\n    break;\\n    \\/\\/\\u043e\\u0447\\u0438\\u0441\\u0442\\u043a\\u0430 \\u0441\\u043f\\u0438\\u0441\\u043a\\u0430 \\u0442\\u043e\\u0432\\u0430\\u0440\\u043e\\u0432, \\u0432\\u044b\\u0431\\u0440\\u0430\\u043d\\u043d\\u044b\\u0445 \\u0434\\u043b\\u044f \\u0441\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u044f\\n    case \'empty\':\\n        $compare->emptyCompare();\\n    break;\\n}\\n\\n\\/\\/\\u0434\\u0435\\u0439\\u0441\\u0442\\u0432\\u0438\\u044f \\u0434\\u043b\\u044f \\u0432\\u044b\\u0432\\u043e\\u0434\\u0430 \\u0432 \\u043c\\u0435\\u0441\\u0442\\u0435 \\u0432\\u044b\\u0437\\u043e\\u0432\\u0430 \\u0441\\u043d\\u0438\\u043f\\u043f\\u0435\\u0442\\u0430\\nswitch($action){\\n    \\/\\/\\u0432\\u044b\\u0432\\u043e\\u0434 \\u0441\\u0442\\u0440\\u043e\\u043a\\u0438 \\u0441\\u043e \\u0441\\u0441\\u044b\\u043b\\u043a\\u0430\\u043c\\u0438 \\u043d\\u0430 \\u0441\\u0442\\u0440\\u0430\\u043d\\u0438\\u0446\\u0443 \\u0441\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u044f\\n    case \'to_compare\':\\n        $output = $compare->toCompareContent();\\n    break;\\n    \\/\\/\\u0432\\u044b\\u0432\\u043e\\u0434 \\u0441\\u043f\\u0438\\u0441\\u043a\\u0430 ID \\u0442\\u043e\\u0432\\u0430\\u0440\\u043e\\u0432, \\u0432\\u044b\\u0431\\u0440\\u0430\\u043d\\u043d\\u044b\\u0445 \\u0434\\u043b\\u044f \\u0441\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u044f\\n    case \'print_id_list\':\\n        $output = $compare->printIDList();\\n    break;\\n    \\/\\/\\u0432\\u044b\\u0432\\u043e\\u0434 \\u0441\\u043f\\u0438\\u0441\\u043a\\u0430 \\u0442\\u043e\\u0432\\u0430\\u0440\\u043e\\u0432, \\u0432\\u044b\\u0431\\u0440\\u0430\\u043d\\u043d\\u044b\\u0445 \\u0434\\u043b\\u044f \\u0441\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u044f\\n    case \'print_products\':\\n        $output = $compare->printCompareProducts();\\n    break;\\n    \\/\\/\\u0432\\u044b\\u0432\\u043e\\u0434 ID \\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0438 \\u0442\\u043e\\u0432\\u0430\\u0440\\u043e\\u0432, \\u0432\\u044b\\u0431\\u0440\\u0430\\u043d\\u043d\\u044b\\u0445 \\u0434\\u043b\\u044f \\u0441\\u0442\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u044f\\n    case \'print_parent_id\':\\n        $output = isset($_COOKIE[\'shkCompareParent\']) ? $_COOKIE[\'shkCompareParent\'] : \'\';\\n    break;\\n    default:\\n        $output = \'\';\\n    break;\\n}\\n\\nreturn $output;","locked":0,"properties":null,"moduleguid":"","static":0,"static_file":"","content":"\\/*\\n\\ncompare 1.1\\n\\u0421\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u0435 \\u0442\\u043e\\u0432\\u0430\\u0440\\u043e\\u0432 \\u0438 \\u0418\\u0437\\u0431\\u0440\\u0430\\u043d\\u043d\\u043e\\u0435\\n\\nAndchir - http:\\/\\/modx-shopkeeper.ru\\/\\n\\n*\\/\\n\\n$default_toCompareTpl = \'\\n    <p>\\n        \\u0412\\u044b\\u0431\\u0440\\u0430\\u043d\\u043e <span id=\\"skolko_vibrano\\">[[+count_current]]<\\/span> \\u0438\\u0437 [[+count_max]]\\n        \\/ <a href=\\"[[+href_compare]]\\" onclick=\\"return shkCompare.toCompareLink();\\">\\u0441\\u0440\\u0430\\u0432\\u043d\\u0438\\u0442\\u044c<\\/a>\\n        <span id=\\"sravnenie_otmena\\" style=\\"display:[[+display_cancel]];\\"> \\/ <a href=\\"[[+href_cancel]]\\">\\u043e\\u0442\\u043c\\u0435\\u043d\\u0438\\u0442\\u044c<\\/a><\\/span>\\n    <\\/p>\\n    <br clear=\\"all\\" \\/>\\n\';\\n\\n$action = isset($action) ? $action : \'to_compare\';\\n\\nrequire_once MODX_CORE_PATH . \'components\\/compare\\/compare.class.php\';\\n$compare = new prodCompare( $modx, $scriptProperties );\\n\\n\\/\\/\\u0434\\u0435\\u0439\\u0441\\u0442\\u0432\\u0438\\u044f, \\u043f\\u0435\\u0440\\u0435\\u0434\\u0430\\u043d\\u043d\\u044b\\u0435 \\u043f\\u043e $_GET\\n$cmpr_action = isset($_GET[\'cmpr_action\']) && !is_array($_GET[\'cmpr_action\']) ? $_GET[\'cmpr_action\'] : \'\';\\nif($cmpr_action == \'del_product\' && !in_array( $action, array(\'print_products\', \'print_id_list\') ) ) return;\\nswitch($cmpr_action){\\n    \\/\\/\\u0443\\u0434\\u0430\\u043b\\u0435\\u043d\\u0438\\u0435 \\u043e\\u0434\\u043d\\u043e\\u0433\\u043e \\u0442\\u043e\\u0432\\u0430\\u0440\\u0430 \\u0438\\u0437 \\u0441\\u043f\\u0438\\u0441\\u043a\\u0430 \\u0434\\u043b\\u044f \\u0441\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u044f\\n    case \'del_product\':\\n        if(!empty($_GET[\'pid\'])) $compare->deleteCompareProduct();\\n    break;\\n    \\/\\/\\u043e\\u0447\\u0438\\u0441\\u0442\\u043a\\u0430 \\u0441\\u043f\\u0438\\u0441\\u043a\\u0430 \\u0442\\u043e\\u0432\\u0430\\u0440\\u043e\\u0432, \\u0432\\u044b\\u0431\\u0440\\u0430\\u043d\\u043d\\u044b\\u0445 \\u0434\\u043b\\u044f \\u0441\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u044f\\n    case \'empty\':\\n        $compare->emptyCompare();\\n    break;\\n}\\n\\n\\/\\/\\u0434\\u0435\\u0439\\u0441\\u0442\\u0432\\u0438\\u044f \\u0434\\u043b\\u044f \\u0432\\u044b\\u0432\\u043e\\u0434\\u0430 \\u0432 \\u043c\\u0435\\u0441\\u0442\\u0435 \\u0432\\u044b\\u0437\\u043e\\u0432\\u0430 \\u0441\\u043d\\u0438\\u043f\\u043f\\u0435\\u0442\\u0430\\nswitch($action){\\n    \\/\\/\\u0432\\u044b\\u0432\\u043e\\u0434 \\u0441\\u0442\\u0440\\u043e\\u043a\\u0438 \\u0441\\u043e \\u0441\\u0441\\u044b\\u043b\\u043a\\u0430\\u043c\\u0438 \\u043d\\u0430 \\u0441\\u0442\\u0440\\u0430\\u043d\\u0438\\u0446\\u0443 \\u0441\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u044f\\n    case \'to_compare\':\\n        $output = $compare->toCompareContent();\\n    break;\\n    \\/\\/\\u0432\\u044b\\u0432\\u043e\\u0434 \\u0441\\u043f\\u0438\\u0441\\u043a\\u0430 ID \\u0442\\u043e\\u0432\\u0430\\u0440\\u043e\\u0432, \\u0432\\u044b\\u0431\\u0440\\u0430\\u043d\\u043d\\u044b\\u0445 \\u0434\\u043b\\u044f \\u0441\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u044f\\n    case \'print_id_list\':\\n        $output = $compare->printIDList();\\n    break;\\n    \\/\\/\\u0432\\u044b\\u0432\\u043e\\u0434 \\u0441\\u043f\\u0438\\u0441\\u043a\\u0430 \\u0442\\u043e\\u0432\\u0430\\u0440\\u043e\\u0432, \\u0432\\u044b\\u0431\\u0440\\u0430\\u043d\\u043d\\u044b\\u0445 \\u0434\\u043b\\u044f \\u0441\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u044f\\n    case \'print_products\':\\n        $output = $compare->printCompareProducts();\\n    break;\\n    \\/\\/\\u0432\\u044b\\u0432\\u043e\\u0434 ID \\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0438 \\u0442\\u043e\\u0432\\u0430\\u0440\\u043e\\u0432, \\u0432\\u044b\\u0431\\u0440\\u0430\\u043d\\u043d\\u044b\\u0445 \\u0434\\u043b\\u044f \\u0441\\u0442\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u044f\\n    case \'print_parent_id\':\\n        $output = isset($_COOKIE[\'shkCompareParent\']) ? $_COOKIE[\'shkCompareParent\'] : \'\';\\n    break;\\n    default:\\n        $output = \'\';\\n    break;\\n}\\n\\nreturn $output;"}',
+        'guid' => '0e14811db0a89c6e2d926a1e201dfc6e',
+        'native_key' => 0,
+        'signature' => '935eb283c077f5d236863203ea0616c8',
+      ),
+      'b7d3c31021cb102cb0f433f0e729368c' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":0,"source":0,"property_preprocess":0,"name":"in_compare","description":"Check if in compare list.","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/*\\n\\n\\u041f\\u0440\\u043e\\u0432\\u0435\\u0440\\u043a\\u0430 \\u0434\\u043e\\u0431\\u0430\\u0432\\u043b\\u0435\\u043d \\u043b\\u0438 \\u0442\\u043e\\u0432\\u0430\\u0440 \\u043a \\u0441\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u044e\\n\\n[[+id:in_compare=`checked=\\"checked\\"`]]\\n\\n*\\/\\n\\nif( !isset( $options ) ) $options = \'checked\';\\n$opt_arr = explode(\'||\', $options);\\nif( count( $opt_arr ) < 2 ) $opt_arr[1] = \' \';\\n\\n$compareIds_arr = !empty( $_COOKIE[\'shkCompareIds\'] )\\n    ? explode( \',\', str_replace(\' \', \'\', $_COOKIE[\'shkCompareIds\'] ) )\\n    : array();\\n\\nreturn in_array( $input, $compareIds_arr ) ? $opt_arr[0] : $opt_arr[1];","locked":0,"properties":null,"moduleguid":"","static":0,"static_file":"","content":"\\/*\\n\\n\\u041f\\u0440\\u043e\\u0432\\u0435\\u0440\\u043a\\u0430 \\u0434\\u043e\\u0431\\u0430\\u0432\\u043b\\u0435\\u043d \\u043b\\u0438 \\u0442\\u043e\\u0432\\u0430\\u0440 \\u043a \\u0441\\u0440\\u0430\\u0432\\u043d\\u0435\\u043d\\u0438\\u044e\\n\\n[[+id:in_compare=`checked=\\"checked\\"`]]\\n\\n*\\/\\n\\nif( !isset( $options ) ) $options = \'checked\';\\n$opt_arr = explode(\'||\', $options);\\nif( count( $opt_arr ) < 2 ) $opt_arr[1] = \' \';\\n\\n$compareIds_arr = !empty( $_COOKIE[\'shkCompareIds\'] )\\n    ? explode( \',\', str_replace(\' \', \'\', $_COOKIE[\'shkCompareIds\'] ) )\\n    : array();\\n\\nreturn in_array( $input, $compareIds_arr ) ? $opt_arr[0] : $opt_arr[1];"}',
+        'guid' => '0af940bd6bc17efd885ebd306180c5bd',
+        'native_key' => 0,
+        'signature' => '332fa478cf14af87031157f9e1b746be',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Children' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'category',
+      'related_objects' => true,
+      'related_object_attributes' => 
+      array (
+        'Snippets' => 
+        array (
+          'preserve_keys' => false,
+          'update_object' => true,
+          'unique_key' => 'name',
+        ),
+        'Chunks' => 
+        array (
+          'preserve_keys' => false,
+          'update_object' => true,
+          'unique_key' => 'name',
+        ),
+      ),
+    ),
+    'Snippets' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+    'Chunks' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+  ),
+  'namespace' => 'compare',
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"compare-1.1-pl\\/modCategory\\/a87ac6a5465a6d0de1f0d0c705f5e8e3\\/0\\/","target":"return MODX_CORE_PATH . \'components\\/\';","name":"compare"}',
+    ),
+    1 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"compare-1.1-pl\\/modCategory\\/a87ac6a5465a6d0de1f0d0c705f5e8e3\\/1\\/","target":"return MODX_ASSETS_PATH . \'components\\/\';","name":"compare"}',
+    ),
+  ),
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f2f895f1a77e67c85f51d87a72276cb3',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'a87ac6a5465a6d0de1f0d0c705f5e8e3',
+  'native_key' => 1,
+  'object' => '{"id":1,"parent":0,"category":"Compare","rank":0}',
+);

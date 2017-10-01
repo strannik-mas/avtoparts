@@ -1,0 +1,2436 @@
+[2017-03-01 15:22:51] (ERROR @ D:\domains\avtoparts\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-03-02 16:37:48] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 10).
+[2017-03-02 17:58:46] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-02 22:07:48] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-02 22:14:57] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-02 22:20:05] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-02 22:27:28] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-02 23:39:50] (ERROR @ D:\domains\avtoparts\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-03-02 23:44:43] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 67) [migxResourceMediaPath]: docid could not be determined.
+[2017-03-02 23:45:17] (ERROR @ D:\domains\avtoparts\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-03-02 23:45:19] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 90).
+[2017-03-02 23:45:49] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 90).
+[2017-03-03 00:31:54] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 67) [migxResourceMediaPath]: docid could not be determined.
+[2017-03-03 00:32:34] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-03 00:33:55] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-03 00:37:28] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-03 00:42:43] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-03 00:52:16] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 74).
+[2017-03-03 13:19:18] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 10).
+[2017-03-03 13:58:46] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 10).
+[2017-03-03 15:04:47] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-03 15:10:57] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-03 15:12:46] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-03 15:18:39] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 68).
+[2017-03-06 16:21:29] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 10).
+[2017-03-06 16:40:39] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-06 16:43:55] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 93).
+[2017-03-06 16:45:04] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 10).
+[2017-03-06 17:04:38] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-06 17:58:02] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 10).
+[2017-03-06 18:37:56] (ERROR @ D:\domains\avtoparts\core\model\modx\modx.class.php : 991) `` is not a valid integer and may not be passed to makeUrl()
+[2017-03-06 19:25:31] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-06 19:25:36] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-06 19:49:49] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-06 20:20:43] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-06 22:57:52] (ERROR @ D:\domains\avtoparts\core\components\compare\compare.class.php : 437) PHP warning: Creating default object from empty value
+[2017-03-07 14:09:12] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 84).
+[2017-03-07 14:12:01] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 84).
+[2017-03-07 21:56:17] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 10).
+[2017-03-07 22:32:39] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 22:58:19] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 22:58:30] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 22:59:27] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 22:59:30] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 22:59:54] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:10:25] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:10:32] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:10:35] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:13:29] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:13:39] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:13:56] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:20:11] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:20:18] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:20:21] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:20:34] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:20:38] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:20:45] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-07 23:21:12] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:22:42] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:23:23] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:25:18] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:25:31] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:25:35] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:25:39] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:25:41] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:25:47] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-07 23:26:11] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:35:07] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:36:55] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:39:26] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-07 23:39:49] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:42:59] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-07 23:46:38] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 10).
+[2017-03-07 23:59:38] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-08 00:21:30] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-08 00:21:42] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-08 00:21:46] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-08 00:23:10] (ERROR @ D:\domains\avtoparts\core\components\compare\compare.class.php : 437) PHP warning: Creating default object from empty value
+[2017-03-08 00:24:52] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 10).
+[2017-03-08 00:29:11] (ERROR @ D:\domains\avtoparts\core\components\compare\compare.class.php : 437) PHP warning: Creating default object from empty value
+[2017-03-08 00:30:56] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-08 00:31:00] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-08 00:31:04] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-08 00:49:25] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 10).
+[2017-03-08 00:51:13] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-03-08 14:24:48] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 94).
+[2017-03-08 14:29:42] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-08 14:32:22] (ERROR @ D:\domains\avtoparts\core\cache\includes\elements\modsnippet\26.include.cache.php : 124) [migxResourceMediaPath]: resource not found (page id 94).
+[2017-03-08 14:36:16] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-08 14:38:00] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-08 14:40:21] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-08 14:53:20] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-08 15:17:42] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-08 15:18:38] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-08 15:19:57] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-08 15:24:08] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-08 15:25:13] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-14 10:26:01] (ERROR @ D:\domains\avtoparts\core\components\compare\compare.class.php : 437) PHP warning: Creating default object from empty value
+[2017-03-14 10:59:23] (ERROR @ D:\domains\avtoparts\core\components\pdotools\model\pdotools\pdofetch.class.php : 171) [pdoTools] Error 42000: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') asc LIMIT 10' at line 1
+[2017-03-14 12:41:04] (ERROR @ D:\domains\avtoparts\core\components\tag_manager2\model\tm_base.class.php : 49) PHP warning: explode() expects parameter 2 to be string, array given
+[2017-05-31 17:11:47] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:11:47] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:11:47] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_content' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modChunk`.`id` AS `modChunk_id`, `modChunk`.`source` AS `modChunk_source`, `modChunk`.`property_preprocess` AS `modChunk_property_preprocess`, `modChunk`.`name` AS `modChunk_name`, `modChunk`.`description` AS `modChunk_description`, `modChunk`.`editor_type` AS `modChunk_editor_type`, `modChunk`.`category` AS `modChunk_category`, `modChunk`.`cache_type` AS `modChunk_cache_type`, `modChunk`.`snippet` AS `modChunk_snippet`, `modChunk`.`locked` AS `modChunk_locked`, `modChunk`.`properties` AS `modChunk_properties`, `modChunk`.`static` AS `modChunk_static`, `modChunk`.`static_file` AS `modChunk_static_file`, `Source`.`id` AS `Source_id`, `Source`.`name` AS `Source_name`, `Source`.`description` AS `Source_description`, `Source`.`class_key` AS `Source_class_key`, `Source`.`properties` AS `Source_properties`, `Source`.`is_stream` AS `Source_is_stream` FROM `modx_site_htmlsnippets` AS `modChunk` LEFT JOIN `modx_media_sources` `Source` ON `modChunk`.`source` = `Source`.`id` WHERE `modChunk`.`name` = ? ORDER BY `modChunk`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_htmlsnippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modChunk`.`id` AS `modChunk_id`, `modChunk`.`source` AS `modChunk_source`, `modChunk`.`property_preprocess` AS `modChunk_property_preprocess`, `modChunk`.`name` AS `modChunk_name`, `modChunk`.`description` AS `modChunk_description`, `modChunk`.`editor_type` AS `modChunk_editor_type`, `modChunk`.`category` AS `modChunk_category`, `modChunk`.`cache_type` AS `modChunk_cache_type`, `modChunk`.`snippet` AS `modChunk_snippet`, `modChunk`.`locked` AS `modChunk_locked`, `modChunk`.`properties` AS `modChunk_properties`, `modChunk`.`static` AS `modChunk_static`, `modChunk`.`static_file` AS `modChunk_static_file`, `Source`.`id` AS `Source_id`, `Source`.`name` AS `Source_name`, `Source`.`description` AS `Source_description`, `Source`.`class_key` AS `Source_class_key`, `Source`.`properties` AS `Source_properties`, `Source`.`is_stream` AS `Source_is_stream` FROM `modx_site_htmlsnippets` AS `modChunk` LEFT JOIN `modx_media_sources` `Source` ON `modChunk`.`source` = `Source`.`id` WHERE `modChunk`.`name` = ? ORDER BY `modChunk`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_htmlsnippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modChunk`.`id` AS `modChunk_id`, `modChunk`.`source` AS `modChunk_source`, `modChunk`.`property_preprocess` AS `modChunk_property_preprocess`, `modChunk`.`name` AS `modChunk_name`, `modChunk`.`description` AS `modChunk_description`, `modChunk`.`editor_type` AS `modChunk_editor_type`, `modChunk`.`category` AS `modChunk_category`, `modChunk`.`cache_type` AS `modChunk_cache_type`, `modChunk`.`snippet` AS `modChunk_snippet`, `modChunk`.`locked` AS `modChunk_locked`, `modChunk`.`properties` AS `modChunk_properties`, `modChunk`.`static` AS `modChunk_static`, `modChunk`.`static_file` AS `modChunk_static_file`, `Source`.`id` AS `Source_id`, `Source`.`name` AS `Source_name`, `Source`.`description` AS `Source_description`, `Source`.`class_key` AS `Source_class_key`, `Source`.`properties` AS `Source_properties`, `Source`.`is_stream` AS `Source_is_stream` FROM `modx_site_htmlsnippets` AS `modChunk` LEFT JOIN `modx_media_sources` `Source` ON `modChunk`.`source` = `Source`.`id` WHERE `modChunk`.`name` = ? ORDER BY `modChunk`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_htmlsnippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modChunk`.`id` AS `modChunk_id`, `modChunk`.`source` AS `modChunk_source`, `modChunk`.`property_preprocess` AS `modChunk_property_preprocess`, `modChunk`.`name` AS `modChunk_name`, `modChunk`.`description` AS `modChunk_description`, `modChunk`.`editor_type` AS `modChunk_editor_type`, `modChunk`.`category` AS `modChunk_category`, `modChunk`.`cache_type` AS `modChunk_cache_type`, `modChunk`.`snippet` AS `modChunk_snippet`, `modChunk`.`locked` AS `modChunk_locked`, `modChunk`.`properties` AS `modChunk_properties`, `modChunk`.`static` AS `modChunk_static`, `modChunk`.`static_file` AS `modChunk_static_file`, `Source`.`id` AS `Source_id`, `Source`.`name` AS `Source_name`, `Source`.`description` AS `Source_description`, `Source`.`class_key` AS `Source_class_key`, `Source`.`properties` AS `Source_properties`, `Source`.`is_stream` AS `Source_is_stream` FROM `modx_site_htmlsnippets` AS `modChunk` LEFT JOIN `modx_media_sources` `Source` ON `modChunk`.`source` = `Source`.`id` WHERE `modChunk`.`name` = ? ORDER BY `modChunk`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_htmlsnippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modChunk`.`id` AS `modChunk_id`, `modChunk`.`source` AS `modChunk_source`, `modChunk`.`property_preprocess` AS `modChunk_property_preprocess`, `modChunk`.`name` AS `modChunk_name`, `modChunk`.`description` AS `modChunk_description`, `modChunk`.`editor_type` AS `modChunk_editor_type`, `modChunk`.`category` AS `modChunk_category`, `modChunk`.`cache_type` AS `modChunk_cache_type`, `modChunk`.`snippet` AS `modChunk_snippet`, `modChunk`.`locked` AS `modChunk_locked`, `modChunk`.`properties` AS `modChunk_properties`, `modChunk`.`static` AS `modChunk_static`, `modChunk`.`static_file` AS `modChunk_static_file`, `Source`.`id` AS `Source_id`, `Source`.`name` AS `Source_name`, `Source`.`description` AS `Source_description`, `Source`.`class_key` AS `Source_class_key`, `Source`.`properties` AS `Source_properties`, `Source`.`is_stream` AS `Source_is_stream` FROM `modx_site_htmlsnippets` AS `modChunk` LEFT JOIN `modx_media_sources` `Source` ON `modChunk`.`source` = `Source`.`id` WHERE `modChunk`.`name` = ? ORDER BY `modChunk`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_htmlsnippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modChunk`.`id` AS `modChunk_id`, `modChunk`.`source` AS `modChunk_source`, `modChunk`.`property_preprocess` AS `modChunk_property_preprocess`, `modChunk`.`name` AS `modChunk_name`, `modChunk`.`description` AS `modChunk_description`, `modChunk`.`editor_type` AS `modChunk_editor_type`, `modChunk`.`category` AS `modChunk_category`, `modChunk`.`cache_type` AS `modChunk_cache_type`, `modChunk`.`snippet` AS `modChunk_snippet`, `modChunk`.`locked` AS `modChunk_locked`, `modChunk`.`properties` AS `modChunk_properties`, `modChunk`.`static` AS `modChunk_static`, `modChunk`.`static_file` AS `modChunk_static_file`, `Source`.`id` AS `Source_id`, `Source`.`name` AS `Source_name`, `Source`.`description` AS `Source_description`, `Source`.`class_key` AS `Source_class_key`, `Source`.`properties` AS `Source_properties`, `Source`.`is_stream` AS `Source_is_stream` FROM `modx_site_htmlsnippets` AS `modChunk` LEFT JOIN `modx_media_sources` `Source` ON `modChunk`.`source` = `Source`.`id` WHERE `modChunk`.`name` = ? ORDER BY `modChunk`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_htmlsnippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_htmlsnippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modPropertySet`.`id` AS `modPropertySet_id`, `modPropertySet`.`name` AS `modPropertySet_name`, `modPropertySet`.`category` AS `modPropertySet_category`, `modPropertySet`.`description` AS `modPropertySet_description`, `modPropertySet`.`properties` AS `modPropertySet_properties`, `Elements`.`element` AS `Elements_element`, `Elements`.`element_class` AS `Elements_element_class`, `Elements`.`property_set` AS `Elements_property_set` FROM `modx_property_set` AS `modPropertySet` LEFT JOIN `modx_element_property_sets` `Elements` ON `modPropertySet`.`id` = `Elements`.`property_set` WHERE  ( `Elements`.`element` = ? AND `Elements`.`element_class` = ? AND `modPropertySet`.`name` = ? )  ORDER BY `modPropertySet`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_property_set' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modSnippet`.`id` AS `modSnippet_id`, `modSnippet`.`source` AS `modSnippet_source`, `modSnippet`.`property_preprocess` AS `modSnippet_property_preprocess`, `modSnippet`.`name` AS `modSnippet_name`, `modSnippet`.`description` AS `modSnippet_description`, `modSnippet`.`editor_type` AS `modSnippet_editor_type`, `modSnippet`.`category` AS `modSnippet_category`, `modSnippet`.`cache_type` AS `modSnippet_cache_type`, `modSnippet`.`snippet` AS `modSnippet_snippet`, `modSnippet`.`locked` AS `modSnippet_locked`, `modSnippet`.`properties` AS `modSnippet_properties`, `modSnippet`.`moduleguid` AS `modSnippet_moduleguid`, `modSnippet`.`static` AS `modSnippet_static`, `modSnippet`.`static_file` AS `modSnippet_static_file`, `Source`.`id` AS `Source_id`, `Source`.`name` AS `Source_name`, `Source`.`description` AS `Source_description`, `Source`.`class_key` AS `Source_class_key`, `Source`.`properties` AS `Source_properties`, `Source`.`is_stream` AS `Source_is_stream` FROM `modx_site_snippets` AS `modSnippet` LEFT JOIN `modx_media_sources` `Source` ON `modSnippet`.`source` = `Source`.`id` WHERE `modSnippet`.`name` = ? ORDER BY `modSnippet`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_snippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR in xPDO::getValue @ D:\domains\avtoparts\core\xpdo\xpdo.class.php : 1111) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_content' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR in xPDO::getValue @ D:\domains\avtoparts\core\xpdo\xpdo.class.php : 1111) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_content' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_htmlsnippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_snippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modChunk`.`id` AS `modChunk_id`, `modChunk`.`source` AS `modChunk_source`, `modChunk`.`property_preprocess` AS `modChunk_property_preprocess`, `modChunk`.`name` AS `modChunk_name`, `modChunk`.`description` AS `modChunk_description`, `modChunk`.`editor_type` AS `modChunk_editor_type`, `modChunk`.`category` AS `modChunk_category`, `modChunk`.`cache_type` AS `modChunk_cache_type`, `modChunk`.`snippet` AS `modChunk_snippet`, `modChunk`.`locked` AS `modChunk_locked`, `modChunk`.`properties` AS `modChunk_properties`, `modChunk`.`static` AS `modChunk_static`, `modChunk`.`static_file` AS `modChunk_static_file`, `Source`.`id` AS `Source_id`, `Source`.`name` AS `Source_name`, `Source`.`description` AS `Source_description`, `Source`.`class_key` AS `Source_class_key`, `Source`.`properties` AS `Source_properties`, `Source`.`is_stream` AS `Source_is_stream` FROM `modx_site_htmlsnippets` AS `modChunk` LEFT JOIN `modx_media_sources` `Source` ON `modChunk`.`source` = `Source`.`id` WHERE `modChunk`.`name` = ? ORDER BY `modChunk`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_htmlsnippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modChunk`.`id` AS `modChunk_id`, `modChunk`.`source` AS `modChunk_source`, `modChunk`.`property_preprocess` AS `modChunk_property_preprocess`, `modChunk`.`name` AS `modChunk_name`, `modChunk`.`description` AS `modChunk_description`, `modChunk`.`editor_type` AS `modChunk_editor_type`, `modChunk`.`category` AS `modChunk_category`, `modChunk`.`cache_type` AS `modChunk_cache_type`, `modChunk`.`snippet` AS `modChunk_snippet`, `modChunk`.`locked` AS `modChunk_locked`, `modChunk`.`properties` AS `modChunk_properties`, `modChunk`.`static` AS `modChunk_static`, `modChunk`.`static_file` AS `modChunk_static_file`, `Source`.`id` AS `Source_id`, `Source`.`name` AS `Source_name`, `Source`.`description` AS `Source_description`, `Source`.`class_key` AS `Source_class_key`, `Source`.`properties` AS `Source_properties`, `Source`.`is_stream` AS `Source_is_stream` FROM `modx_site_htmlsnippets` AS `modChunk` LEFT JOIN `modx_media_sources` `Source` ON `modChunk`.`source` = `Source`.`id` WHERE `modChunk`.`name` = ? ORDER BY `modChunk`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_htmlsnippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_htmlsnippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modSnippet`.`id` AS `modSnippet_id`, `modSnippet`.`source` AS `modSnippet_source`, `modSnippet`.`property_preprocess` AS `modSnippet_property_preprocess`, `modSnippet`.`name` AS `modSnippet_name`, `modSnippet`.`description` AS `modSnippet_description`, `modSnippet`.`editor_type` AS `modSnippet_editor_type`, `modSnippet`.`category` AS `modSnippet_category`, `modSnippet`.`cache_type` AS `modSnippet_cache_type`, `modSnippet`.`snippet` AS `modSnippet_snippet`, `modSnippet`.`locked` AS `modSnippet_locked`, `modSnippet`.`properties` AS `modSnippet_properties`, `modSnippet`.`moduleguid` AS `modSnippet_moduleguid`, `modSnippet`.`static` AS `modSnippet_static`, `modSnippet`.`static_file` AS `modSnippet_static_file`, `Source`.`id` AS `Source_id`, `Source`.`name` AS `Source_name`, `Source`.`description` AS `Source_description`, `Source`.`class_key` AS `Source_class_key`, `Source`.`properties` AS `Source_properties`, `Source`.`is_stream` AS `Source_is_stream` FROM `modx_site_snippets` AS `modSnippet` LEFT JOIN `modx_media_sources` `Source` ON `modSnippet`.`source` = `Source`.`id` WHERE `modSnippet`.`name` = ? ORDER BY `modSnippet`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_snippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modChunk`.`id` AS `modChunk_id`, `modChunk`.`source` AS `modChunk_source`, `modChunk`.`property_preprocess` AS `modChunk_property_preprocess`, `modChunk`.`name` AS `modChunk_name`, `modChunk`.`description` AS `modChunk_description`, `modChunk`.`editor_type` AS `modChunk_editor_type`, `modChunk`.`category` AS `modChunk_category`, `modChunk`.`cache_type` AS `modChunk_cache_type`, `modChunk`.`snippet` AS `modChunk_snippet`, `modChunk`.`locked` AS `modChunk_locked`, `modChunk`.`properties` AS `modChunk_properties`, `modChunk`.`static` AS `modChunk_static`, `modChunk`.`static_file` AS `modChunk_static_file`, `Source`.`id` AS `Source_id`, `Source`.`name` AS `Source_name`, `Source`.`description` AS `Source_description`, `Source`.`class_key` AS `Source_class_key`, `Source`.`properties` AS `Source_properties`, `Source`.`is_stream` AS `Source_is_stream` FROM `modx_site_htmlsnippets` AS `modChunk` LEFT JOIN `modx_media_sources` `Source` ON `modChunk`.`source` = `Source`.`id` WHERE `modChunk`.`name` = ? ORDER BY `modChunk`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_htmlsnippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modChunk`.`id` AS `modChunk_id`, `modChunk`.`source` AS `modChunk_source`, `modChunk`.`property_preprocess` AS `modChunk_property_preprocess`, `modChunk`.`name` AS `modChunk_name`, `modChunk`.`description` AS `modChunk_description`, `modChunk`.`editor_type` AS `modChunk_editor_type`, `modChunk`.`category` AS `modChunk_category`, `modChunk`.`cache_type` AS `modChunk_cache_type`, `modChunk`.`snippet` AS `modChunk_snippet`, `modChunk`.`locked` AS `modChunk_locked`, `modChunk`.`properties` AS `modChunk_properties`, `modChunk`.`static` AS `modChunk_static`, `modChunk`.`static_file` AS `modChunk_static_file`, `Source`.`id` AS `Source_id`, `Source`.`name` AS `Source_name`, `Source`.`description` AS `Source_description`, `Source`.`class_key` AS `Source_class_key`, `Source`.`properties` AS `Source_properties`, `Source`.`is_stream` AS `Source_is_stream` FROM `modx_site_htmlsnippets` AS `modChunk` LEFT JOIN `modx_media_sources` `Source` ON `modChunk`.`source` = `Source`.`id` WHERE `modChunk`.`name` = ? ORDER BY `modChunk`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_htmlsnippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_htmlsnippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modSnippet`.`id` AS `modSnippet_id`, `modSnippet`.`source` AS `modSnippet_source`, `modSnippet`.`property_preprocess` AS `modSnippet_property_preprocess`, `modSnippet`.`name` AS `modSnippet_name`, `modSnippet`.`description` AS `modSnippet_description`, `modSnippet`.`editor_type` AS `modSnippet_editor_type`, `modSnippet`.`category` AS `modSnippet_category`, `modSnippet`.`cache_type` AS `modSnippet_cache_type`, `modSnippet`.`snippet` AS `modSnippet_snippet`, `modSnippet`.`locked` AS `modSnippet_locked`, `modSnippet`.`properties` AS `modSnippet_properties`, `modSnippet`.`moduleguid` AS `modSnippet_moduleguid`, `modSnippet`.`static` AS `modSnippet_static`, `modSnippet`.`static_file` AS `modSnippet_static_file`, `Source`.`id` AS `Source_id`, `Source`.`name` AS `Source_name`, `Source`.`description` AS `Source_description`, `Source`.`class_key` AS `Source_class_key`, `Source`.`properties` AS `Source_properties`, `Source`.`is_stream` AS `Source_is_stream` FROM `modx_site_snippets` AS `modSnippet` LEFT JOIN `modx_media_sources` `Source` ON `modSnippet`.`source` = `Source`.`id` WHERE `modSnippet`.`name` = ? ORDER BY `modSnippet`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_site_snippets' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:11:48] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239908, 'shk_order|a:0:{}shk_delivery|a:0:{}modx.user.contextTokens|a:0:{}AjaxForm|a:1:{s:32:\"19f36514d68abb0f79d9c26929fe7cfc\";a:14:{s:4:\"form\";s:6:\"zvonok\";s:7:\"snippet\";s:6:\"FormIt\";s:12:\"frontend_css\";s:29:\"[[+assetsUrl]]css/default.css\";s:11:\"frontend_js\";s:27:\"[[+assetsUrl]]js/default.js\";s:9:\"actionUrl\";s:24:\"[[+assetsUrl]]action.php\";s:12:\"formSelector\";s:9:\"ajax_form\";s:10:\"objectName\";s:8:\"AjaxForm\";s:5:\"hooks\";s:5:\"email\";s:12:\"emailSubject\";s:42:\"Заказ обратного звонка\";s:7:\"emailTo\";s:22:\"strannik-mas@yandex.ru\";s:8:\"validate\";s:13:\"name:required\";s:22:\"validationErrorMessage\";s:48:\"В форме содержатся ошибки!\";s:14:\"successMessage\";s:142:\"Сообщение успешно отправлено! В ближайшее время с вами свяжется наш менеджер.\";s:13:\"emailFromName\";s:9:\"avtoPARTS\";}}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:11:50] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:11:50] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:11:50] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:11:50] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239910, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:11:52] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:11:53] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_lexicon_entries' doesn't exist
+)
+
+[2017-05-31 17:11:53] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:11:54] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:11:54] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239914, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:11:55] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:11:55] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:11:55] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:11:55] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239915, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:12:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239923, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:12:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239923, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:11] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:11] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:12:11] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:11] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:11] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:11] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239931, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:12] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:12] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:12:12] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:12] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239932, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:17] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:17] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:12:17] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:17] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:17] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:17] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239937, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:17] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:17] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:12:17] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:17] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239937, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:12:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239944, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:12:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239944, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:12:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239948, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:12:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239948, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:32] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:33] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:12:33] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:33] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:33] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:33] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239953, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:33] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:33] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:12:33] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:33] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239953, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:12:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239958, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:12:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239958, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:43] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:43] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:12:43] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:43] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:12:43] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:43] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239963, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:43] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:43] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:12:43] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:12:43] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496239963, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:07] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:08] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:13:08] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:08] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('s6464q1i68ktt3o2ll2rbmmii1', 1496239988, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:09] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:09] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:13:09] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:09] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('s6464q1i68ktt3o2ll2rbmmii1', 1496239989, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:09] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:09] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:13:09] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:09] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('s6464q1i68ktt3o2ll2rbmmii1', 1496239989, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:13:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:13:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:13:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('s6464q1i68ktt3o2ll2rbmmii1', 1496240001, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:32] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:32] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:13:32] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:13:32] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:13:32] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:32] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('s6464q1i68ktt3o2ll2rbmmii1', 1496240012, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:44] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:44] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:13:44] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:13:44] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:13:44] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:44] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('s6464q1i68ktt3o2ll2rbmmii1', 1496240024, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:49] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:49] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:13:49] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:13:49] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:13:49] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:13:49] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('s6464q1i68ktt3o2ll2rbmmii1', 1496240029, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:16:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:16:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:16:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:16:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240184, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:16:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:16:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:16:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:16:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240185, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:16:53] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:16:53] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:16:53] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:16:53] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:16:53] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:16:53] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240213, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:16:54] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:16:54] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:16:54] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:16:54] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240214, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:17:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240223, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:17:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:03] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240223, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:12] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:12] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:17:12] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:12] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:12] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:12] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240232, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:12] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:12] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:17:12] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:12] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240232, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:16] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:16] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:17:16] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:16] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:16] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:16] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240236, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:17] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:17] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:17:17] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:17] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240237, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:17:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240241, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:17:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:21] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240241, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:17:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:24] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240244, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:17:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240245, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:17:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240248, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:17:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:28] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240248, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:30] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:30] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:17:30] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:30] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:30] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:30] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240250, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:31] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:31] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:17:31] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:31] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240251, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:17:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:17:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:38] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240258, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:39] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:39] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:17:39] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:17:39] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240259, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:18:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:18:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:18:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:18:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:18:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:18:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240305, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:18:26] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:18:26] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:18:26] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:18:26] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240306, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:18:34] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:18:34] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:18:34] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:18:34] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:18:34] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:18:34] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240314, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:18:34] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:18:34] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_content_type' doesn't exist
+)
+
+[2017-05-31 17:18:34] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:18:34] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('novmi9586q0tt2b396171vmhe6', 1496240314, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:20:05] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:20:05] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:20:05] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:20:05] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:20:05] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:20:05] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('s6464q1i68ktt3o2ll2rbmmii1', 1496240405, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:20:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:20:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:20:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:20:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 543) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_users' doesn't exist
+)
+
+[2017-05-31 17:20:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:20:25] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('s6464q1i68ktt3o2ll2rbmmii1', 1496240425, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:20:40] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:20:40] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_actiondom' doesn't exist
+)
+
+[2017-05-31 17:20:40] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 240) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-05-31 17:20:40] (ERROR @ D:\domains\avtoparts\core\xpdo\om\xpdoobject.class.php : 1452) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('ffjhevt6d1qdcfmio280e89322', 1496240440, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'avtoparts.modx_session' doesn't exist
+)
+
+[2017-06-28 22:51:55] (ERROR @ D:\domains\avtoparts\core\model\modx\modx.class.php : 991) `` is not a valid integer and may not be passed to makeUrl()
