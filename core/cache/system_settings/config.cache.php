@@ -52,7 +52,7 @@
   'default_content_type' => '1',
   'editor_css_path' => '',
   'editor_css_selectors' => '',
-  'emailsender' => 'mas_m@ukr.net',
+  'emailsender' => 'privat_m@ukr.net',
   'emailsubject' => 'Your login details',
   'enable_dragdrop' => '1',
   'error_page' => '52',
